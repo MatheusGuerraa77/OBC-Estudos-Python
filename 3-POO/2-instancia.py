@@ -17,7 +17,7 @@ movie.durationMinutes = 130
 movie2 = Movie()
 movie2.name = "Kung Fu Panda 4"
 movie2.yearLaunch = 2024
-movie2.viewincluded = False
+movie2.included = False
 movie2.note = 7.0
 movie2.durationMinutes = 90
 
