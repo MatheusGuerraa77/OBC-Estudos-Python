@@ -1,8 +1,8 @@
 """
 
-1- O método de classe utiliza o parâmetro referente a classe,
-2- O método de classe pode acessar ou modificar o estado da classe.
-3- Utilizamos o decorator @classmethod para criar um método de classe
+1- O método estático não utiliza o parâmetro referente a classe,
+2- O método estático pode acessar mas não pode modificar o estado da classe.
+3- Utilizamos o decorator @sthaticmethod para criar um método de classe
 """
 
 class Course:
