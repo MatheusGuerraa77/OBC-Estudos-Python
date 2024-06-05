@@ -23,5 +23,4 @@ class Course:
 print(Course.courses_trail("Python Fundamentos"))
 print(Course.courses_trail("Análise de dados"))
 print(Course.courses_trail("Automação com o Python"))
-        
-        
+               
