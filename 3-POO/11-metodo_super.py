@@ -28,6 +28,4 @@ Iphone = SmartPhone("Iphone","13", 5000, "4GB", "128GB", "25MP")
 print(Iphone)
 Iphone.make_a_call(2433534)
 print(f"Valor do {Iphone.brand}{Iphone.model_name} é {Iphone.price}")
-print(vars(Iphone))
-        
-        
+print(vars(Iphone))        
