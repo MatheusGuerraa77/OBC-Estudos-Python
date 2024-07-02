@@ -1,0 +1,9 @@
+Nome: Fulano 
+Endereço: Rua X 
+Celular: 2651265362
+Nome: Fulano 
+Endereço: 4 
+Celular: 4
+Nome: goil 
+Endereço: rua z 
+Celular: 3647637
