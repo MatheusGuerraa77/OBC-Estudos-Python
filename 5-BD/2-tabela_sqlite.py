@@ -21,5 +21,5 @@ cursor.execute("""
                """)
 
 # 4 - fechando a conexão
-print("Tabela criada com sucesso")
+print("Tabela criada com sucesso!")
 connection.close()
