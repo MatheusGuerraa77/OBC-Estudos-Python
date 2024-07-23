@@ -1,2 +1,2 @@
-# Formação-Python
- Material de Formação Python 
+# Hablidades Python
+ Material de Formação Python, com códigos, práticas, projetos, entre outros.
